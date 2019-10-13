@@ -29,7 +29,7 @@ for (pos = 0; pos <= 180; pos += 1) { // goes from 0 degrees to 180 degrees
 }
 
 ## Part C. Integrating input and output
-(video)[https://youtu.be/SVad7VHK_-4]
+[video](https://youtu.be/SVad7VHK_-4)
 ## Part D. Paper puppet
 
 **a. Make a video of your proto puppet.**
