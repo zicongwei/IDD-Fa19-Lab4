@@ -37,5 +37,5 @@ for (pos = 0; pos <= 180; pos += 1) { // goes from 0 degrees to 180 degrees
 
 ## Part E. Make it your own
 
-**a. Make a video of your final design.**
- 
+ a nodding-head dog
+ [video](https://youtu.be/hXGP5REydUI)
